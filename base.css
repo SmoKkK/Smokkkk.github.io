@@ -661,6 +661,17 @@ div[style*="width: 100%; height: 20px"] {
 	background-attachment: fixed;
 }
 
+/*4.e. Group DM Icon*/
+.guild-1EfMGQ .guildInner-3DSoA4 a[style*="/assets/f046e2247d730629309457e902d5c5b3.svg"],
+div[style*="/assets/f046e2247d730629309457e902d5c5b3.svg"]{
+	background-image:url(https://raw.githubusercontent.com/SmoKkK/Smokkkk.github.io/master/image2vector.svgzz)!important;
+	filter:hue-rotate(320deg);
+}
+.da-privateChannels .da-channel .da-image,
+.da-privateChannels .da-channel .da-avatar {
+    box-shadow:none !important;
+}
+
 /*4.f. Channel Notice*/
 .channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {
     background: transparent url(/assets/bf625d222187f542b9d7179109422e2c.svg) no-repeat center 20px;
